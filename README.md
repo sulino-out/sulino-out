@@ -48,12 +48,12 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=sulino.out&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulino.out&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=sulino-out&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulino-out&theme=react&layout=compact" />
 </p>
 
 ------
 
-[sulino.out](https://github.com/sulino.out)
+[sulino.out](https://github.com/sulino-out)
 
 Last Edited on: 30/03/2025
