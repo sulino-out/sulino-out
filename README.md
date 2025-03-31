@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **ryansulino.out@gmail.com**
 
-- ⚡ What I like to do: **In gereral, i just like to study, play videogames and hangout with my friends**
+- ⚡ What I like to do: **In general, i just like to study, play videogames and hangout with my friends**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -27,7 +27,7 @@
   <a href="https://www.w3schools.com/c/index.php" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" alt="html5" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
