@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **Graduation**
 
-- 🌱 I’m currently learning **C, Python, Linux, Criptography**
+- 🌱 I’m currently learning **C, Python, Linux, Criptography, Ghidra, GDB**
 
 - 👯 I’m looking to collaborate on **Back-end developments and Cybersecurity projects**
 
