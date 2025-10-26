@@ -2,15 +2,15 @@
 <h3 align="center">👨‍💻 A Cybersecurity enthusiast and great lover of acquiring new knowledge</h3>
 <h3 align="center">📚 Currently graduating in Information Systems at USP</h3>
 
-- 🔭 I’m currently working on my **Graduation**
+- 🔭 I’m currently working on **Playing CTFs**
 
-- 🌱 I’m currently learning **C, Python, Linux, Criptography, Ghidra, GDB**
+- 🌱 I’m currently learning **Stack vulnerabilities, pwntools, assymetric ciphers, pycryptodome**
 
 - 👯 I’m looking to collaborate on **Back-end developments and Cybersecurity projects**
 
 - 📫 How to reach me: **ryansulino.out@gmail.com**
 
-- ⚡ What I like to do: **In general, i just like to study, play videogames and hangout with my friends**
+- ⚡ What I like to do: **Program, learn maths and play CTF. Occasionally, I play bass**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
