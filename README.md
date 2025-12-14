@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Playing CTFs**
 
-- 🌱 I’m currently learning **Stack vulnerabilities, pwntools, assymetric ciphers, pycryptodome**
+- 🌱 I’m currently learning **Stack vulnerabilities, pwntools, asymetric ciphers, pycryptodome**
 
 - 👯 I’m looking to collaborate on **Back-end developments and Cybersecurity projects**
 
