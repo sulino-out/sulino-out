@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">👨‍💻 A Cybersecurity enthusiast </h3>
-<h3 align="center">📚 Currently graduating in Information Systems at USP</h3>
+<h3 align="center">📚 Currently graduating in Computer Science at USP</h3>
 
 - 🔭 My main areas of interest are **Reverse Engineering, Pwn, Operating Systems, Open Source Software and Hardware, Competitive Programming, Computer Networks and Cryptography**
 
